@@ -36,7 +36,7 @@ const links = [
     label: 'WhatsApp',
   },
   {
-    href: 'mailto:abdulvahabaa.official@gmail.com',
+    href: 'mailto:shasbin.official@gmail.com',
     icon: <FaEnvelope className="w-6 h-6 text-[#D14836]" />,
     label: 'Gmail',
   },

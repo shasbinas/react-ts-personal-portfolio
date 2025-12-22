@@ -5,7 +5,7 @@ import { FaWhatsapp } from 'react-icons/fa6';
 export default function ContactCards() {
   const [copied, setCopied] = useState(false);
   const [isHoveringEmail, setIsHoveringEmail] = useState(false);
-  const email = 'abdulvahabaa.official@gmail.com';
+  const email = 'shasbin.official@gmail.com';
   const whatsappNumber = '919747733770';
   const whatsappMessage = "Hi! I'd like to get in touch with you.";
 
