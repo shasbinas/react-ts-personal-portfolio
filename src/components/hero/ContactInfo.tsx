@@ -29,8 +29,8 @@ export function ContactInfo() {
     <div className="flex flex-col items-center gap-0">
       <ContactItem
         icon={<Phone className="w-5 h-5" />}
-        text="+91 9747733770"
-        href="tel:+919747733770"
+        text="+91 9746998909"
+        href="tel:+919746998909"
       />
       <ContactItem
         icon={<Mail className="w-5 h-5" />}

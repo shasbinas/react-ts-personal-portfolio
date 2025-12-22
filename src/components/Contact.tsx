@@ -94,7 +94,7 @@ export function Contact() {
                       <Phone className="w-4 h-4 sm:w-5 sm:h-5 text-green-600 dark:text-green-400" />
                     </div>
                     <span className="text-base sm:text-base md:text-lg text-gray-700 dark:text-gray-300 group-active/link:text-green-600 dark:group-active/link:text-green-400 md:group-hover/link:text-green-600 dark:md:group-hover/link:text-green-400 transition-colors duration-300 font-medium">
-                      +91 9747733770
+                      +91 9746998909
                     </span>
                   </a>
                   <a

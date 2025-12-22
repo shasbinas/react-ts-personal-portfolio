@@ -10,8 +10,6 @@ export function Hero() {
     'Full Stack Developer',
     'Node.js Backend Engineer',
     'Next.js & React.js Developer',
-    'Technical Trainer',
-    'Digital Content Creator',
   ];
 
   return (
