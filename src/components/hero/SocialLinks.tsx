@@ -5,7 +5,6 @@ import {
   FaGithub,
   FaLinkedin,
  
-  FaYoutube,
 } from 'react-icons/fa6';
 import { SiLeetcode } from 'react-icons/si';
 
@@ -20,11 +19,11 @@ const links = [
     icon: <FaLinkedin className="w-6 h-6 text-[#0077B5]" />,
     label: 'LinkedIn',
   },
-  {
-    href: 'https://www.youtube.com/@eldoradotechie',
-    icon: <FaYoutube className="w-6 h-6 text-[#FF0000]" />,
-    label: 'YouTube',
-  },
+  // {
+  //   href: 'https://www.youtube.com/@eldoradotechie',
+  //   icon: <FaYoutube className="w-6 h-6 text-[#FF0000]" />,
+  //   label: 'YouTube',
+  // },
   // {
   //   href: 'https://www.instagram.com/abubakthiyar',
   //   icon: <FaInstagram className="w-6 h-6 text-[#E4405F]" />,

@@ -32,7 +32,7 @@ export function Footer() {
     { href: '#leetcode', label: 'Leetcode' },
     { href: '#badges', label: 'Badges' },
     { href: '#experience', label: 'Experience' },
-    { href: '#certifications', label: 'Certifications' },
+    // { href: '#certifications', label: 'Certifications' },
     { href: '#education', label: 'Education' },
     { href: '#contact', label: 'Contact' },
   ];
