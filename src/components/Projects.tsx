@@ -18,6 +18,7 @@ import {
   SiHtml5,
   SiCss3,
   SiExpress,
+  SiPostgresql,
 } from 'react-icons/si';
 
 // Define reusable tech stack icons & colors
@@ -27,9 +28,10 @@ const techStacks = {
   firebase: { icon: SiFirebase, name: 'Firebase', color: '#fbbf00' },
   tailwind: { icon: SiTailwindcss, name: 'Tailwind CSS', color: '#06b6d4' },
   typescript: { icon: SiTypescript, name: 'TypeScript', color: '#1f6feb' },
-  next: { icon: SiNextdotjs, name: 'Next.js', color: '#' },
+  next: { icon: SiNextdotjs, name: 'Next.js', color: '#' }, // unchanged
   mongodb: { icon: SiMongodb, name: 'MongoDB', color: '#10b981' },
   prisma: { icon: SiPrisma, name: 'Prisma', color: '#186997' },
+  postgresql: { icon: SiPostgresql, name: 'PostgreSQL', color: '#336791' }, // added
   shadcn: { icon: SiShadcnui, name: 'ShadCN', color: '#6366f1' },
   framer: { icon: SiFramer, name: 'Framer Motion', color: '#2563eb' },
   socket: { icon: SiSocketdotio, name: 'Socket.io', color: '#' },
@@ -44,8 +46,8 @@ const projects = [
     description:
       'My portfolio website, showcasing my professional background and more. Clean, responsive, and shows off my work while keeping things simple and professional.',
     image: '/assets/img/portfolio.png',
-    link: 'https://abdulvahabaaa.in/',
-    github: 'https://github.com/abdulvahabaa/react-ts-personal-portfolio',
+    link: '',
+    github: 'https://github.com/shasbinas/react-ts-personal-portfolio.git',
     techStack: [
       { icon: SiHtml5, name: 'HTML', color: '#e34c26' },
       { icon: SiCss3, name: 'CSS', color: '#264de4' },
@@ -55,16 +57,16 @@ const projects = [
     ],
   },
   {
-    title: 'Node-Mongoose-JWT-APIs-TS',
+    title: 'Task Manager APIs',
     description:
-      'Production-grade REST API built with Node.js, TypeScript, Express, MongoDB, Redis and Docker. Includes Jest, Supertest, test Coverage and Docker Compose.',
+      'Production-grade REST API built with Node.js, TypeScript, Express,, Redis and Docker. Includes Jest, Supertest, test Coverage and Docker Compose.',
     image: '/assets/img/Backend API.png',
-    link: 'https://tumour-spotter-ai.lovable.app',
-    github: 'https://github.com/dineshit27/tumour-spotter-ai',
+    link: '',
+    github: 'https://github.com/shasbinas/task-manager-api-ts.git',
     techStack: [
       techStacks.node,
       techStacks.typescript,
-      techStacks.mongodb,
+      techStacks. postgresql,
       { icon: SiExpress, name: 'Express', color: '#000' },
       { icon: SiCss3, name: 'CSS', color: '#264de4' },
     ],
@@ -74,8 +76,8 @@ const projects = [
     description:
       'This is a modern developer portfolio. Designed with a clean UI/UX, smooth animations, and dynamic content. it is fully responsive and optimized for performance.',
     image: '/assets/img/modern-portfolio.png',
-    link: 'https://modern-portfolio-eta-eight.vercel.app/',
-    github: 'https://github.com/abdulvahabaa/modern-portfolio',
+    link: 'https://personal-website-psi-eight-78.vercel.app/',
+    github: 'https://github.com/shasbinas/my-portfolio-nextjs.git',
     techStack: [
       techStacks.next,
       techStacks.react,
