@@ -11,12 +11,12 @@ import { SiLeetcode } from 'react-icons/si';
 
 const links = [
   {
-    href: 'https://github.com/abdulvahabaa',
+    href: 'https://github.com/shasbinas',
     icon: <FaGithub className="w-6 h-6 text-gray-900 dark:text-white" />,
     label: 'GitHub',
   },
   {
-    href: 'https://www.linkedin.com/in/abdulvahabaa/',
+    href: 'https://www.linkedin.com/in/shasbin-as-58ba50376/',
     icon: <FaLinkedin className="w-6 h-6 text-[#0077B5]" />,
     label: 'LinkedIn',
   },
@@ -31,7 +31,7 @@ const links = [
     label: 'Instagram',
   },
   {
-    href: 'https://wa.me/919747733770',
+    href: 'https://wa.me/919746998909',
     icon: <FaWhatsapp className="w-6 h-6 text-[#25D366]" />,
     label: 'WhatsApp',
   },
@@ -41,7 +41,7 @@ const links = [
     label: 'Gmail',
   },
   {
-    href: 'https://leetcode.com/u/abdulvahabaa/',
+    href: 'https://leetcode.com/u/shasbinas/',
     icon: <SiLeetcode className="w-6 h-6 text-[#FFA116]" />,
     label: 'LeetCode',
   },
