@@ -6,7 +6,7 @@ export default function ContactCards() {
   const [copied, setCopied] = useState(false);
   const [isHoveringEmail, setIsHoveringEmail] = useState(false);
   const email = 'shasbin.official@gmail.com';
-  const whatsappNumber = '919747733770';
+  const whatsappNumber = '919746998909';
   const whatsappMessage = "Hi! I'd like to get in touch with you.";
 
   const handleCopyEmail = async () => {
