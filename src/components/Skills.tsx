@@ -15,7 +15,7 @@ import {
   SiTypescript,
   SiNextdotjs,
   SiExpress,
-  SiGraphql,
+  // SiGraphql,
   SiPostgresql,
   SiPrisma,
   SiDjango,
@@ -23,12 +23,12 @@ import {
   SiDocker,
   SiRedis,
   SiPostman,
-  SiAdobephotoshop,
-  SiAdobeillustrator,
-  SiAdobexd,
-  SiAdobepremierepro,
+  // SiAdobephotoshop,
+  // SiAdobeillustrator,
+  // SiAdobexd,
+  // SiAdobepremierepro,
 } from 'react-icons/si';
-import { FaNodeJs, FaAws } from 'react-icons/fa6';
+import { FaNodeJs,  } from 'react-icons/fa6';
 import { VscVscode, VscTerminalPowershell } from 'react-icons/vsc';
 
 const skills = [
@@ -93,12 +93,12 @@ const skills = [
     color: '#092e20',
     url: 'https://www.djangoproject.com/',
   },
-  {
-    name: 'GraphQL',
-    icon: SiGraphql,
-    color: '#e535ab',
-    url: 'https://graphql.org/',
-  },
+  // {
+  //   name: 'GraphQL',
+  //   icon: SiGraphql,
+  //   color: '#e535ab',
+  //   url: 'https://graphql.org/',
+  // },
   {
     name: 'MongoDB',
     icon: SiMongodb,
@@ -131,12 +131,12 @@ const skills = [
     color: '#2496ed',
     url: 'https://www.docker.com/',
   },
-  {
-    name: 'AWS',
-    icon: FaAws,
-    color: '#ff9900',
-    url: 'https://aws.amazon.com/',
-  },
+  // {
+  //   name: 'AWS',
+  //   icon: FaAws,
+  //   color: '#ff9900',
+  //   url: 'https://aws.amazon.com/',
+  // },
   { name: 'Vercel', icon: SiVercel, color: '#', url: 'https://vercel.com/' },
   {
     name: 'VS Code',
@@ -162,30 +162,30 @@ const skills = [
     color: '#f24e1e',
     url: 'https://www.figma.com/',
   },
-  {
-    name: 'Photoshop',
-    icon: SiAdobephotoshop,
-    color: '#31A8FF',
-    url: 'https://www.adobe.com/products/photoshop.html',
-  },
-  {
-    name: 'Illustrator',
-    icon: SiAdobeillustrator,
-    color: '#FF9A00',
-    url: 'https://www.adobe.com/products/illustrator.html',
-  },
-  {
-    name: 'Adobe XD',
-    icon: SiAdobexd,
-    color: '#FF61F6',
-    url: 'https://www.adobe.com/products/xd.html',
-  },
-  {
-    name: 'Premiere Pro',
-    icon: SiAdobepremierepro,
-    color: '#9999FF',
-    url: 'https://www.adobe.com/products/premiere.html',
-  },
+  // {
+  //   name: 'Photoshop',
+  //   icon: SiAdobephotoshop,
+  //   color: '#31A8FF',
+  //   url: 'https://www.adobe.com/products/photoshop.html',
+  // },
+  // {
+  //   name: 'Illustrator',
+  //   icon: SiAdobeillustrator,
+  //   color: '#FF9A00',
+  //   url: 'https://www.adobe.com/products/illustrator.html',
+  // },
+  // {
+  //   name: 'Adobe XD',
+  //   icon: SiAdobexd,
+  //   color: '#FF61F6',
+  //   url: 'https://www.adobe.com/products/xd.html',
+  // },
+  // {
+  //   name: 'Premiere Pro',
+  //   icon: SiAdobepremierepro,
+  //   color: '#9999FF',
+  //   url: 'https://www.adobe.com/products/premiere.html',
+  // },
 ];
 
 export function Skills() {
