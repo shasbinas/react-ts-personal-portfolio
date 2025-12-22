@@ -1,7 +1,7 @@
 import { SectionTitle } from './ui/SectionTitle';
 import { SectionBackground } from './ui/SectionBackground';
 // import { ContactForm } from './ui/ContactForm';
-import { FaGithub, FaLinkedin, FaEnvelope, FaInstagram } from 'react-icons/fa6';
+import { FaGithub, FaLinkedin, FaEnvelope,  } from 'react-icons/fa6';
 import { SiLeetcode } from 'react-icons/si';
 import { Phone } from 'lucide-react';
 import ContactCards from './ui/ContactCard';
@@ -97,7 +97,7 @@ export function Contact() {
                       +91 9746998909
                     </span>
                   </a>
-                  <a
+                  {/* <a
                     href="https://www.instagram.com/abdulvahabaa/"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -109,7 +109,7 @@ export function Contact() {
                     <span className="text-base sm:text-base md:text-lg text-gray-700 dark:text-gray-300 group-active/link:text-pink-600 dark:group-active/link:text-pink-400 md:group-hover/link:text-pink-600 dark:md:group-hover/link:text-pink-400 transition-colors duration-300 font-medium">
                       instagram.com/abdulvahabaa
                     </span>
-                  </a>
+                  </a> */}
                 </div>
               </div>
             </div>
