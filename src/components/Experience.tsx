@@ -15,6 +15,8 @@ const experiences = [
       'PostgreSQL',
       'MongoDB',
       'TypeScript',
+      "Docker",
+      "Redis",
       // 'AWS',
       'Git & GitHub',
       // 'Training & Mentorship',
