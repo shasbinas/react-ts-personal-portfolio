@@ -60,8 +60,8 @@ export function Hero() {
 
             <div className="absolute inset-0 bg-linear-to-br from-blue-500/20 to-purple-500/20 rounded-full blur-3xl animate-pulse" />
             <img
-              src="/assets/profile.png"
-              alt="Abdul Vahab A A"
+              src="/assets/profile.jpeg"
+              alt="Shasbin AS"
               className="relative w-full max-w-lg mx-auto rounded-full shadow-2xl transform hover:scale-105 transition-transform duration-500"
             />
           </div>
