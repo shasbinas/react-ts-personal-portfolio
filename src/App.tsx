@@ -1,15 +1,15 @@
 import { Navbar } from './components/Navbar';
 import { Hero } from './components/Hero';
 import { About } from './components/About';
-import { Services } from './components/Services';
+// import { Services } from './components/Services';
 import { Skills } from './components/Skills';
 import { Projects } from './components/Projects';
-import { Achievements } from './components/Achievements';
+// import { Achievements } from './components/Achievements';
 import { GitHub } from './components/GitHub';
 import { Leetcode } from './components/Leetcode';
 import { Badges } from './components/Badges';
 import { Experience } from './components/Experience';
-import { Certifications } from './components/Certifications';
+// import { Certifications } from './components/Certifications';
 import { Education } from './components/Education';
 import { Contact } from './components/Contact';
 import { Footer } from './components/Footer';
@@ -18,7 +18,7 @@ import { ScrollToTop } from './components/ui/ScrollToTop';
 import { Analytics } from '@vercel/analytics/react';
 import { LoadingScreen } from './components/loading/LoadingScreen';
 import { useLoading } from './hooks/useLoading';
-import { YouTubeVideos } from './components/YouTubeVideos';
+// import { YouTubeVideos } from './components/YouTubeVideos';
 import { GithubStarsButton } from './components/ui/GithubStarsButton';
 
 function App() {
@@ -33,7 +33,7 @@ function App() {
           <Navbar />
           <Hero />
           <About />
-          <Services />
+          {/* <Services /> */}
           <Skills />
           {/* <Achievements /> */}
           <Projects />
@@ -43,7 +43,7 @@ function App() {
           <Experience />
           {/* <Certifications /> */}
           <Education />
-          <YouTubeVideos />
+          {/* <YouTubeVideos /> */}
           <Contact />
           <Footer />
           <ScrollToTop />
