@@ -46,7 +46,7 @@ export function Contact() {
                     </span>
                   </a>
                   <a
-                    href="https://github.com/abdulvahabaa"
+                    href="https://github.com/shasbinas"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="group/link flex items-center gap-3 sm:gap-4 p-2.5 sm:p-3 rounded-lg sm:rounded-xl active:bg-gray-50 dark:active:bg-gray-800/50 hover:bg-gray-50 dark:hover:bg-gray-800/50 transition-all duration-300 transform active:translate-x-1 md:hover:translate-x-2 active:scale-[0.98]"
@@ -55,11 +55,11 @@ export function Contact() {
                       <FaGithub className="w-4 h-4 sm:w-5 sm:h-5 text-gray-700 dark:text-gray-300" />
                     </div>
                     <span className="text-base sm:text-base md:text-lg text-gray-700 dark:text-gray-300 group-active/link:text-blue-600 dark:group-active/link:text-blue-400 md:group-hover/link:text-blue-600 dark:md:group-hover/link:text-blue-400 transition-colors duration-300 font-medium">
-                      github.com/abdulvahabaa
+                      github.com/shasbinas
                     </span>
                   </a>
                   <a
-                    href="https://www.linkedin.com/in/abdulvahabaa"
+                    href="https://www.linkedin.com/in/shasbin-as-58ba50376/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="group/link flex items-center gap-3 sm:gap-4 p-2.5 sm:p-3 rounded-lg sm:rounded-xl active:bg-blue-50 dark:active:bg-blue-900/20 hover:bg-blue-50 dark:hover:bg-blue-900/20 transition-all duration-300 transform active:translate-x-1 md:hover:translate-x-2 active:scale-[0.98]"
@@ -68,11 +68,11 @@ export function Contact() {
                       <FaLinkedin className="w-4 h-4 sm:w-5 sm:h-5 text-blue-600 dark:text-blue-400" />
                     </div>
                     <span className="text-base sm:text-base md:text-lg text-gray-700 dark:text-gray-300 group-active/link:text-blue-600 dark:group-active/link:text-blue-400 md:group-hover/link:text-blue-600 dark:md:group-hover/link:text-blue-400 transition-colors duration-300 font-medium">
-                      linkedin.com/in/abdulvahabaa
+                      linkedin.com/in/shasbin-as
                     </span>
                   </a>
                   <a
-                    href="https://leetcode.com/u/abdulvahabaa"
+                    href="https://leetcode.com/u/shasbinas/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="group/link flex items-center gap-3 sm:gap-4 p-2.5 sm:p-3 rounded-lg sm:rounded-xl active:bg-orange-50 dark:active:bg-orange-900/20 hover:bg-orange-50 dark:hover:bg-orange-900/20 transition-all duration-300 transform active:translate-x-1 md:hover:translate-x-2 active:scale-[0.98]"
@@ -81,7 +81,7 @@ export function Contact() {
                       <SiLeetcode className="w-4 h-4 sm:w-5 sm:h-5 text-orange-600 dark:text-orange-400" />
                     </div>
                     <span className="text-base sm:text-base md:text-lg text-gray-700 dark:text-gray-300 group-active/link:text-orange-600 dark:group-active/link:text-orange-400 md:group-hover/link:text-orange-600 dark:md:group-hover/link:text-orange-400 transition-colors duration-300 font-medium">
-                      leetcode.com/u/abdulvahabaa
+                      leetcode.com/u/shasbinas
                     </span>
                   </a>
                   <a
