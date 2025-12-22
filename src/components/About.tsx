@@ -10,7 +10,7 @@ const aboutSections = [
     description: [
       'Full Stack MERN Developer with hands-on experience in scalable web applications.',
       'Passionate about clean architecture and modern JavaScript technologies.',
-      'Technical trainer focusing on simplifying complex concepts.',
+      'Problem-solver focused on clean, scalable code.',
     ],
     color: 'bg-blue-600',
   },
@@ -59,8 +59,8 @@ export function About() {
           <div className="max-w-5xl mx-auto mb-10 text-center">
             <p className="text-base sm:text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
               Hey there! 👋 I'm{' '}
-              <span className="text-blue-600 font-semibold">Abdul Vahab</span>,
-              a Full Stack MERN Developer and Technical Trainer. I specialize in
+              <span className="text-blue-600 font-semibold">Shasbin AS</span>,
+              a Full Stack MERN Developer. I specialize in
               building scalable web applications using React.js, Next.js,
               Node.js, TypeScript, MongoDB, and PostgreSQL. With experience
               delivering projects for clients worldwide and training over 350+
