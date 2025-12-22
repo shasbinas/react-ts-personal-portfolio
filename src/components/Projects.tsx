@@ -59,7 +59,7 @@ const projects = [
   {
     title: 'Task Manager APIs',
     description:
-      'Production-grade REST API built with Node.js, TypeScript, Express,, Redis and Docker. Includes Jest, Supertest, test Coverage and Docker Compose.',
+      'Production-grade REST API built with Node.js, TypeScript, Express,    Postgresql, Redis and Docker. Includes Jest, Supertest, test Coverage and Docker Compose.',
     image: '/assets/img/Backend API.png',
     link: '',
     github: 'https://github.com/shasbinas/task-manager-api-ts.git',

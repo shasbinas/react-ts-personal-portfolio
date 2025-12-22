@@ -25,31 +25,31 @@ interface UserProfile {
 
 const SPECIFIC_REPOS: Repo[] = [
   {
-    name: 'Node-Mongoose-JWT-APIs-TS',
+    name: 'task-manager-api-ts',
     description:
-      'Production-grade REST API built with Node.js, TypeScript, Express, MongoDB, Redis and Docker. Includes Jest, Supertest, test Coverage and Docker Compose.',
-    stars: 4,
+      'Production-grade REST API built with Node.js, TypeScript, Express, PostgreSQL, Redis and Docker. Includes Jest, Supertest, test Coverage and Docker Compose.',
+    stars: 1,
     forks: 0,
     language: 'Node.js, TypeScript',
-    html_url: 'https://github.com/abdulvahabaa/Node-Mongoose-JWT-APIs-TS',
+    html_url: 'https://github.com/shasbinas/task-manager-api-ts.git',
   },
   {
     name: 'react-ts-personal-portfolio',
     description:
       'My personal developer portfolio built with React and TypeScript. Features a component-driven architecture, optimized performance, and modern UI design principles.',
-    stars: 9,
-    forks: 1,
+    stars: 1,
+    forks: 0,
     language: 'React.js, TypeScript',
-    html_url: 'https://github.com/abdulvahabaa/react-ts-personal-portfolio',
+    html_url: 'https://github.com/shasbinas/react-ts-personal-portfolio.git',
   },
   {
-    name: 'modern-portfolio',
+    name: 'my-portfolio-nextjs',
     description:
       'This is a modern developer portfolio. Designed with a clean UI/UX, smooth animations, and dynamic content. it is fully responsive and optimized for performance.',
-    stars: 10,
-    forks: 1,
+    stars: 22,
+    forks: 0,
     language: 'Next.js, TypeScript',
-    html_url: 'https://github.com/abdulvahabaa/modern-portfolio',
+    html_url: 'https://github.com/shasbinas/my-portfolio-nextjs.git',
   },
 ];
 
@@ -58,7 +58,7 @@ export function GitHub() {
   const [user, setUser] = useState<UserProfile | null>(null);
 
   useEffect(() => {
-    fetch('https://api.github.com/users/abdulvahabaa')
+    fetch('https://api.github.com/users/shasbinas')
       .then(res => res.json())
       .then((data: UserProfile) => setUser(data))
       .catch(() => {});
@@ -76,7 +76,7 @@ export function GitHub() {
           <div className="mb-10 flex flex-col items-center">
             <div className="w-full p-6 border border-gray-300 dark:border-gray-600 rounded-lg shadow-lg">
               <GitHubCalendar
-                username="abdulvahabaa"
+                username="shasbinas"
                 blockSize={14.6}
                 blockMargin={5}
                 colorScheme="light"
