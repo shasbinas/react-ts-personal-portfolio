@@ -51,7 +51,7 @@ const projects = [
       'My portfolio website, showcasing my professional background and more. Clean, responsive, and shows off my work while keeping things simple and professional.',
     image: '/assets/img/portfolio.png',
     link: 'react-ts-personal-portfolio.vercel.app',
-    github: 'https://shasbin-personal-portfolio-fymv57mr0-shasbinas-projects.vercel.app/',
+    github: 'https://react-ts-personal-portfolio.vercel.app/',
     techStack: [
       { icon: SiHtml5, name: 'HTML', color: '#e34c26' },
       { icon: SiCss3, name: 'CSS', color: '#264de4' },
