@@ -19,6 +19,8 @@ import {
   SiCss3,
   SiExpress,
   SiPostgresql,
+  SiRedis,
+  SiDocker,
 } from 'react-icons/si';
 
 // Define reusable tech stack icons & colors
@@ -37,6 +39,8 @@ const techStacks = {
   socket: { icon: SiSocketdotio, name: 'Socket.io', color: '#' },
   stripe: { icon: SiStripe, name: 'Stripe', color: '#5b4df1' },
   appwrite: { icon: SiAppwrite, name: 'Appwrite', color: '#ff3d00' },
+  redis: { icon: SiRedis, name: 'Redis', color: '#dc382d' },
+  docker: { icon: SiDocker, name: 'Docker', color: '#2496ed' },
 };
 
 // Define projects data
@@ -46,7 +50,7 @@ const projects = [
     description:
       'My portfolio website, showcasing my professional background and more. Clean, responsive, and shows off my work while keeping things simple and professional.',
     image: '/assets/img/portfolio.png',
-    link: '',
+    link: 'react-ts-personal-portfolio.vercel.app',
     github: 'https://github.com/shasbinas/react-ts-personal-portfolio.git',
     techStack: [
       { icon: SiHtml5, name: 'HTML', color: '#e34c26' },
@@ -68,7 +72,8 @@ const projects = [
       techStacks.typescript,
       techStacks. postgresql,
       { icon: SiExpress, name: 'Express', color: '#000' },
-      { icon: SiCss3, name: 'CSS', color: '#264de4' },
+      techStacks.redis,
+      techStacks.docker,
     ],
   },
   {

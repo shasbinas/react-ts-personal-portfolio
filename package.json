@@ -47,13 +47,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abdulvahabaa/react-ts-personal-portfolio.git"
+    "url": "git+https://github.com/shasbinas/react-ts-personal-portfolio.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/abdulvahabaa/react-ts-personal-portfolio/issues"
+    "url": "https://github.com/shasbinas/react-ts-personal-portfolio/issues"
   },
-  "homepage": "https://github.com/abdulvahabaa/react-ts-personal-portfolio#readme"
+  "homepage": "https://github.com/shasbinas/react-ts-personal-portfolio#readme"
 }

@@ -98,7 +98,7 @@ export function Contact() {
                     </span>
                   </a>
                   {/* <a
-                    href="https://www.instagram.com/abdulvahabaa/"
+                    href="https://www.instagram.com/shasbinas/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="group/link flex items-center gap-3 sm:gap-4 p-2.5 sm:p-3 rounded-lg sm:rounded-xl active:bg-pink-50 dark:active:bg-pink-900/20 hover:bg-pink-50 dark:hover:bg-pink-900/20 transition-all duration-300 transform active:translate-x-1 md:hover:translate-x-2 active:scale-[0.98]"
@@ -107,7 +107,7 @@ export function Contact() {
                       <FaInstagram className="w-4 h-4 sm:w-5 sm:h-5 text-pink-600 dark:text-pink-400" />
                     </div>
                     <span className="text-base sm:text-base md:text-lg text-gray-700 dark:text-gray-300 group-active/link:text-pink-600 dark:group-active/link:text-pink-400 md:group-hover/link:text-pink-600 dark:md:group-hover/link:text-pink-400 transition-colors duration-300 font-medium">
-                      instagram.com/abdulvahabaa
+                      instagram.com/shasbinas
                     </span>
                   </a> */}
                 </div>

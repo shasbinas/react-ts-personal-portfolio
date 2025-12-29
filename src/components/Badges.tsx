@@ -40,14 +40,14 @@ const badges = [
   //   platform: 'LeetCode',
   //   title: 'Top SQL 50',
   //   image: 'https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif',
-  //   profile: 'https://leetcode.com/u/abdulvahabaa/',
+  //   profile: 'https://leetcode.com/u/shasbinas/',
   // },
   // {
   //   id: 'leetcode-leetcode-75',
   //   platform: 'LeetCode',
   //   title: 'LeetCode 75',
   //   image: 'https://assets.leetcode.com/static_assets/others/LeetCode_75.gif',
-  //   profile: 'https://leetcode.com/u/abdulvahabaa/',
+  //   profile: 'https://leetcode.com/u/shasbinas/',
   // },
   {
     id: 'github-shark',
@@ -99,7 +99,7 @@ const badges = [
   //   title: 'Galaxy Brain',
   //   image:
   //     'https://github.githubassets.com/assets/galaxy-brain-default-847262c21056.png',
-  //   profile: 'https://github.com/abdulvahabaaa',
+  //   profile: 'https://github.com/shasbinas',
   // },
 ];
 
