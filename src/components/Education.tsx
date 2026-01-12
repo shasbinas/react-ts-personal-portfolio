@@ -6,7 +6,7 @@ const education = [
   {
     degree: 'Bachelor of Computer Applications (BCA) - Online Degree',
     institution: 'Yenepoya University',
-    period: 'oct 2025 – Expected oct 2028',
+    period: 'Jul 2025 – Expected Jul 2028',
     score: 'Ongoing',
   },
   // {
